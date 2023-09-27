@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev-hello"
+  site-url: "https://partrita.github.io/nbdev-hello"
+  description: "Just for learning."
+  repo-branch: main
+  repo-url: "https://github.com/partrita/nbdev-hello"
